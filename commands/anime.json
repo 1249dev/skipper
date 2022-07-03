@@ -6,5 +6,5 @@
   "desc": "Mendapat seputar informasi tentang judul anime yang dicari",
   "usage": "anime {judul anime}",
   "example": "anime spy x family",
-  "cooldown": "3s",
+  "cooldown": "3s"
 }
