@@ -4,7 +4,7 @@
   "aliases": "",
   "category": "Anime",
   "desc": "Mendapat seputar informasi tentang judul anime yang dicari",
-  "example": "anime {judul anime}",
+  "usage": "anime {judul anime}",
   "example": "anime spy x family",
   "cooldown": "3s",
 }
