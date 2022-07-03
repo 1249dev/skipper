@@ -7,6 +7,6 @@
     "desc": "Mendapatkan random seputar informasi tokoh penting Indonesia",
     "usage": "tokoh",
     "example": "tokoh",
-    "cooldown": "1s"
+    "cooldown": "5s"
   }
 }
