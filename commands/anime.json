@@ -1,10 +1,12 @@
 {
-  "status": "true",
-  "name": "anime",
-  "aliases": "",
-  "category": "Anime",
-  "desc": "Mendapat seputar informasi tentang judul anime yang dicari",
-  "usage": "anime {judul anime}",
-  "example": "anime spy x family",
-  "cooldown": "3s"
+  "results": {
+    "status": "true",
+    "name": "anime",
+    "aliases": "",
+    "category": "Anime",
+    "desc": "Mendapat seputar informasi tentang judul anime yang dicari",
+    "usage": "anime {judul anime}",
+    "example": "anime spy x family",
+    "cooldown": "3s"
+  }
 }
