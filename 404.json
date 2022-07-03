@@ -1,0 +1,28 @@
+---
+
+permalink: /404.json
+
+---
+{
+
+  "status": "false",
+
+  "results": {
+
+    "name": "anime",
+
+    "aliases": "ㅤ",
+
+    "category": "Anime",
+
+    "desc": "Mendapatkan seputar informasi tentang judul anime yang dicari",
+
+    "usage": "anime {judul anime}",
+
+    "example": "anime spy x family",
+
+    "cooldown": "3s"
+
+  }
+
+}
