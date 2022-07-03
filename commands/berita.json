@@ -7,6 +7,6 @@
     "desc": "Mendapatkan random seputar informasi berita CNN Indonesia hari ini",
     "usage": "berita",
     "example": "berita",
-    "cooldown": "3s"
+    "cooldown": "5s"
   }
 }
