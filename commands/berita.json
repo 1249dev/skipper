@@ -1,10 +1,12 @@
 {
-  "status": "true",
-  "name": "berita",
-  "aliases": "news",
-  "category": "Utilitas",
-  "desc": "Mendapat seputar informasi berita CNN Indonesia hari ini",
-  "usage": "berita",
-  "example": "berita",
-  "cooldown": "3s"
+  "results": {
+    "status": "true",
+    "name": "berita",
+    "aliases": "news",
+    "category": "Utilitas",
+    "desc": "Mendapat seputar informasi berita CNN Indonesia hari ini",
+    "usage": "berita",
+    "example": "berita",
+    "cooldown": "3s"
+  }
 }
