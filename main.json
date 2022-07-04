@@ -1,4 +1,6 @@
 {
-  "name" : "Skipper"
-  "desc" : "adalah bot Indonesia yang dibuat untuk mencukupi kebutuhan pengguna Discord"
+  "results": {
+    "name": "Skipper"
+    "desc": "adalah bot Indonesia yang dibuat untuk mencukupi berbagai kebutuhan pengguna Discord"
+  }
 }
